@@ -1,12 +1,32 @@
 body {
-  background-color: tomato;
+  background-color:black;
+  color: azure;
 }
 
 h1 {
-  color: black;
+  color: white;
 }
 
 header {
   display: flex;
-  background-color: aquamarine;
+  justify-content: center;
+  background-color: palevioletred ;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  max-width: 70%;
+}
+
+footer {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  background-color: palevioletred;
 }
