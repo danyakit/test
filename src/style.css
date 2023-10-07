@@ -1,3 +1,14 @@
 body {
-  background-color: tomato;
-}
+    background-color: tomato;
+  }
+  
+  h1 {
+    color: black;
+  }
+
+  header {
+    display: flex;
+    background-color: aquamarine;
+  }
+  
+  
