@@ -1,14 +1,12 @@
 body {
-    background-color: tomato;
-  }
-  
-  h1 {
-    color: black;
-  }
+  background-color: tomato;
+}
 
-  header {
-    display: flex;
-    background-color: aquamarine;
-  }
-  
-  
+h1 {
+  color: black;
+}
+
+header {
+  display: flex;
+  background-color: aquamarine;
+}
